@@ -1,0 +1,371 @@
+
+
+.container-nav{ 
+    position: relative; 
+    display: block; 
+    width:80%; 
+    height: 60px;
+    max-width:1600px; 
+    margin:2% auto 0px; 
+}
+
+
+.logo{ 
+   margin-top:50px;  
+    
+}
+
+element.style {
+    transform: translateX(0px) translateY(0px);
+}
+
+@media screen and (max-width: 991px)
+.w-nav[data-collapse="medium"] 
+
+.w-nav-menu {
+    display: none; 
+}
+
+@media screen and (max-width: 991px)
+.nav-menu {
+    background-color: #353535;
+}
+
+
+
+
+
+element.style {
+    max-width: 1600px;
+}
+
+.w-nav-menu{  
+    position: relative; 
+    float:right; 
+    margin-right: 100px; 
+    margin-top: -90px;
+}
+
+
+.nav-link {
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: Lato, sans-serif;
+    color: #242323;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.4em;
+    text-decoration: none;
+}
+.w-nav-link {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    color: #222222;
+    padding: 20px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    text-decoration: underline;
+}
+
+a {
+    background-color: transparent;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+/* ------------------------------------ */
+
+element.style {
+    max-width: 1600px;
+}
+.nav-link {
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: Lato, sans-serif;
+    color: #242323;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.4em;
+    text-decoration: none;
+}
+
+.w-nav-link {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    color: #222222;
+    padding: 20px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* ------------------------------------ */
+
+element.style {
+    max-width: 1600px;
+}
+@media screen and (max-width: 991px)
+.nav-link {
+    color: orange;
+}
+.nav-link {
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: Lato, sans-serif;
+    color: #242323;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.4em;
+    text-decoration: none;
+}
+.w-nav-link {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    color: #222222;
+    padding: 20px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    text-decoration: underline;
+}
+a {
+    background-color: transparent;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* ------------------------------- */
+
+@media screen and (max-width: 991px)
+.w-nav[data-collapse="medium"] 
+
+.w-nav-button {
+    display: block;
+}
+
+html.w-mod-touch * {
+    background-attachment: scroll !important;
+}
+
+.w-nav-button {
+    position: relative;
+    float: right;
+    padding: 18px;
+    font-size: 24px;
+    cursor: pointer;
+
+    user-select: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* --------------------------- */
+html.w-mod-touch * {
+    background-attachment: scroll !important;
+}
+.icon-4 {
+    background-color: #272727;
+}
+[class^="w-icon-"], [class*=" w-icon-"] {
+    font-family: 'webflow-icons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+
+}
+* {
+    box-sizing: border-box;
+}
+
+/* ----------------------------------- */
+
+.w-container:after {
+    clear: both;
+}
+.w-container:before, .w-container:after {
+    content: " ";
+    display: table;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 2;
+    grid-row-end: 2;
+}
+
+/* ---------------------------------------- */
+
+.w-nav[data-animation="over-left"] .w-nav-overlay, .w-nav[data-animation="over-left"] [data-nav-menu-open] {
+    right: auto;
+    z-index: 1;
+    top: 0;
+}
+.w-nav[data-animation="over-left"] .w-nav-overlay {
+    width: auto;
+}
+html.w-mod-touch * {
+    background-attachment: scroll !important;
+}
+.w-nav-overlay {
+    position: absolute;
+    overflow: hidden;
+    display: none;
+    top: 100%;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+
+/* ul li a{  
+    float: right;
+    margin-right: 30px;
+    list-style: none;
+    display: inline-block;
+    list-style: none; 
+    margin-top: 10px; 
+    font-family: sans-serif;
+    text-decoration-line: none;
+    color: black;
+} */
+
+
+.introduce{
+    display: flex;
+    position: relative;
+}
+
+
+
+
+
+
+.heroimage-container{ 
+    background-color: white; 
+    width: 80%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.h1{
+    color: rgb(248, 125, 103);
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.lead{ 
+    color:black;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    /* font-style: bold; */
+
+    
+
+}
+
+
+.inintroduce{
+    position: absolute;
+    left: 250px;
+    top: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inintroduce2{
+    position: absolute;
+    left: 250px;
+    top: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-right:55%; 
+
+}
+
+
+/* -------------------------------------- */
+
+.yellow{
+    background-color:rgb(255, 217, 0);
+    height: 1000px
+}
+
+
+.cafe{   
+    float: right; 
+    margin-right: 30px; 
+    min-width: 50px;
+    max-width: 500px;
+
+
+} 
+
+
+
+.grey{
+    background-color:rgb(231, 239, 244);
+    height: 1000px; 
+}
+
+
+.wayfarer{   
+    float: right; 
+    margin-right: 30px; 
+    min-width: 50px;
+    max-width: 500px;
+
+
+} 
+
+
+.pumpkin{
+    background-color:rgb(225,173,176);
+    height: 1000px; 
+}
+
+
+.seamless{   
+    float: right; 
+    margin-right: 30px; 
+    min-width: 50px;
+    max-width: 500px;
+
+}
